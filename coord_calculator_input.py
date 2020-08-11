@@ -24,6 +24,5 @@ dd = int(x[0:2]) + mm
 # print the result and round the solution to two decimal places
 print "The solution in decimal degrees is:", round(dd, 2)
 
-
-
+# I added this new comment.
 
